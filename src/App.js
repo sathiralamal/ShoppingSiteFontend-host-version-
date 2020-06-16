@@ -6,7 +6,7 @@ import alertify from "alertifyjs/build/alertify";
 import "alertifyjs/build/css/alertify.min.css";
 import "alertifyjs/build/css/alertify.css";
 import "alertifyjs/build/css/themes/default.min.css";
-
+//tthh
 import DefaultFooter from "./containers/DefaultLayout/DefaultFooter";
 import DefaultHeader from "./containers/DefaultLayout/DefaultHeader";
 import AddProduct from "./views/pages/Product/AddProduct/AddProduct";
