@@ -18,9 +18,9 @@ import Register from "./views/pages/Register"
 import UpdateProduct from "./views/pages/Product/UpdateProduct/UpdateProduct";
 import MyShop from "./views/pages/Product/MyShop/MyShop";
 import AdminDashbord from "./views/pages/AdminPages/admindashbord";
-import fakeAuth from "../src/views/pages/fakeAuth"
-import Login from "../../client/src/views/pages/Login"
-import Login2 from "../../client/src/views/pages/Login/Login2"
+import fakeAuth from "./views/pages/fakeAuth"
+import Login from "./views/pages/Login"
+import Login2 from "./views/pages/Login/Login2"
 import ProductCategory from "./views/pages/AdminPages/ProductCategory/createcategoryPanal";
 import StoreManagerPanal from "./views/pages/AdminPages/StoreManagerRegister/StoremanagerPanal";
 import registerVerify from "./views/pages/registerVerify";
